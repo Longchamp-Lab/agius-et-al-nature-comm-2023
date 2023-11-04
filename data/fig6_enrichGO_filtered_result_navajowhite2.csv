@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0046488","GO:0046488","phosphatidylinositol metabolic process","10/266","147/22841",9.08314644588754e-06,0.0201814829308634,0.0186463693568136,"Pten/Uvrag/Mtmr6/Fam126b/Socs4/Mtmr10/Pi4k2b/Pgap1/Socs6/Bpnt2",10
+"GO:0043161","GO:0043161","proteasome-mediated ubiquitin-dependent protein catabolic process","17/266","430/22841",1.31948237534249e-05,0.0201814829308634,0.0186463693568136,"Itch/Socs4/Sirt1/Fbxo33/Arih1/Zyg11b/Smurf2/Rmnd5a/Erlin2/Ubxn7/Cul4b/Dnajb14/Yod1/Mapk8/Klhl20/Kbtbd7/Atxn3",17
+"GO:0032869","GO:0032869","cellular response to insulin stimulus","11/266","207/22841",3.32951983508106e-05,0.0291481802351193,0.0269310107986082,"Pten/Syap1/Sirt1/Pde3b/Osbpl8/Prkaa1/Lmbrd1/Kat2b/Rhoq/Pklr/Hdac9",11
