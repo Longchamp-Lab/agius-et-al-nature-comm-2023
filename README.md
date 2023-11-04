@@ -1,2 +1,9 @@
-# agius-et-al-nature-comm-2023
+# Agius et al. Nature Communication 2023
 Repository containing all custom scripts and other relevant data from the study "Short-Term Hypercaloric Carbohydrate Loading Increases Surgical Stress Resilience by inducing FGF21" published in Nature Communication.
+
+# Abstract
+Dietary restriction promotes resistance to acute surgical stress in multiple organisms. Counterintuitively, current medical protocols recommend short-term carbohydrate-rich drinks (carbohydrate loading) prior to surgery, part of a multimodal perioperative care pathway designed to enhance surgical recovery. Despite widespread clinical use, preclinical and mechanistic studies on carbohydrate loading in surgical contexts are lacking. Here we demonstrated in ad libitum-fed mice that liquid carbohydrate loading for one week drives reductions in solid food intake, while nearly doubling total caloric intake independently of the sex. Similarly, in humans, simple carbohydrate intake was inversely correlated with dietary protein intake. Carbohydrate loading-induced protein dilution increased expression of hepatic fibroblast growth factor 21 (FGF21) independent of caloric intake, resulting in protection in two models of surgical stress: renal and hepatic ischemia-reperfusion injury. The protection was consistent across male, female, and aged mice. In vivo, amino acid add-back or genetic FGF21 deletion blocked carbohydrate loading-mediated protection from ischemia-reperfusion injury. Finally, carbohydrate loading induction of FGF21 was associated with the induction of the canonical integrated stress response (ATF3/4, NF-kB), and oxidative metabolism (PPARγ). Together, these data support carbohydrate loading drinks prior to acute surgical stress and revealed an essential role of protein dilution via FGF21. 
+
+# Data available
+- All R scripts used in figures.
+- All raw tables containing raw data used in the study.
